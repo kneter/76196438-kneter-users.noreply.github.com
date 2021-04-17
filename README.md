@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # Welcome
 ## now to
-### knee.github.io
+### kneter.github.io
 
 - code
 - learning
