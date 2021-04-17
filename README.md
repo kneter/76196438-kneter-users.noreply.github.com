@@ -11,15 +11,21 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Welcome
+## now to
+### knee.github.io
 
-- Bulleted
-- List
+- code
+- learning
+- trying
+- deleting
+- trying
 
-1. Numbered
-2. List
+1. your nor the only beginner
+2. it is a lot of stuff
+3. yust start and see
+4. you will get better
+5. I promise
 
 **Bold** and _Italic_ and `Code` text
 
