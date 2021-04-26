@@ -14,32 +14,38 @@ Syntax highlighted code block
 # Welcome
 #### kneter.github.io
 
-- oh-my-zsh
-- iterm2
-- getting something donw
-- need help
-- wherever
+* oh-my-zsh
+* iterm2
++ getting something donw
+* need help
+* wherever
 
-1. your nor the only beginner
-2. it is a lot of stuff
-3. yust start and see
-4. you will get better
-5. I promise
+- your nor the only beginner
+- it is a lot of stuff
+- yust start and see
+- you will get better
+-  I promise
 
 **Hello Guys**
-_My name is Felix, I am not young and not old. Age doesnt matter a shit. 
-I am living in Germany/Berllin. Itravelled the world many years and since 95 I am quiet an Computer addict. 
-I orket in many comanys as an Adminstrator but i never got involved really in coding. 
-I want to change that now.
-I have a MacBook- Pro right now but love linux a lot. 
-I am learning to get along withoh-my-zsh right now because i think it is a good idea.
-ierm2 , npm Python, ruby and al that stuff comes next. SSh in a row is a problem too. 
-My Router got hacked 3 times alredy. It seeems quiet easy. 
-I closed it now and try to get my websites in cloudflare and connected with my github project. 
-Not to forget Docker. Its a lot and maybe too much. 
-I sit 12 hours a day on my mac, so i think it comes a day when i nderstand
-I want to get everything connected. Cloudflare, github, grunt, heroku, Docker, etc,etc... 
-in oh-my-zsh. UUUUUhhhhhhh. Yeeeeaaahhhh
+1. My name is Felix, I am not young and not old. 
+2. Age doesnt matter a shit.
+3. I am living in Germany/Berllin. I 
+4. travelled the world many years and since 95 I am quiet an Computer addict. 
+5. I worket in many comanys as an Adminstrator or else 
+6. but i never got involved really in coding. 
+7. I want to change that now.
+8. I have a MacBook- Pro right now and i  love linux a lot. 
+9. bit i love the mac hardware too
+10. I am learning to get along withoh-my-zsh right now 
+11. I think it is a good idea.
+12. ierm2 , npm Python, ruby and al that stuff comes next. 
+13. SSh in a row is a problem too. 
+14. My Router got hacked 3 times alredy. It seeems quiet easy.  
+15. I closed it now and try to get my websites in cloudflare and connected with my github project. 
+16. Not to forget Docker. Its a lot and maybe too much.  
+17. I sit 12 hours a day on my mac, so i think it comes a day when i nderstand
+18. I want to get everything connected. Cloudflare, github, grunt, heroku, Docker, etc,etc... 
+19. in oh-my-zsh. UUUUUhhhhhhh. Yeeeeaaahhhh
 
 
 _ and `Code` text
